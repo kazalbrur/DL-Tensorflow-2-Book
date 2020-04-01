@@ -156,6 +156,8 @@ docsify serve docs
 English Version: [Dive into Deep Learning](https://d2l.ai/) | [Github Repo](https://github.com/d2l-ai/d2l-en)
 
 
+
+
 ## 引用
 如果您在研究中使用了这个项目请引用原书:
 ```
